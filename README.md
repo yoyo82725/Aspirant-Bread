@@ -9,6 +9,8 @@
 <li>支援雙人合作模式</li>
 <li>遵守程式撰寫規範</li>
 </ul>
+google drive
+https://drive.google.com/file/d/0BxmyhDQeDp5pTEstM3E2ai1sa3M/view?usp=sharing
 
 ![image](https://raw.githubusercontent.com/yoyo82725/Aspirant-Bread/master/擷圖1.png)
 ![image](https://raw.githubusercontent.com/yoyo82725/Aspirant-Bread/master/擷圖2.png)
